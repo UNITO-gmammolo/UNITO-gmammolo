@@ -11,7 +11,7 @@ Attualmente sono impegnato attivamente nello sviluppo del progetto [Unita](http:
 
 - 👋 Hi, I’m  Giuseppe Mammolo (@UNITO-gmammolo). This is the account related to [University of Turin](https://www.unito.it/).
 Software developer with a degree in computer science from the [Department of Computer Science (UNITO)](http://www.di.unito.it/do/home.pl).
-I am currently actively developing for [Unita](http://www.univ-unita.eu/)
+I am currently developing for [Unita](http://www.univ-unita.eu/)
 - 👀 Working on Moodle (from 3.1 to 3.11)
 - 📫 you can contact me on giuseppe.mammolo[at]unito.it
 
